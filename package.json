@@ -4,6 +4,7 @@
 	"description": "Display current active GCP Project in the Status Bar",
 	"version": "0.0.1",
 	"publisher": "lum1n",
+	"repository": "https://github.com/lum1n/gcp-status-bar",
 	"engines": {
 		"vscode": "^1.41.0"
 	},
